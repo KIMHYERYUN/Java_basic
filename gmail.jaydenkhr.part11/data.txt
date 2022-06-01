@@ -1,0 +1,4 @@
+#\uC8FC\uC11D
+#Tue Nov 09 15:14:50 KST 2021
+name=KHR
+age=32
